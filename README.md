@@ -1,13 +1,13 @@
 # Bukti Screenshot
 
 ## Code JSON
-![] (gambar/Json.png)
+![](gambar/Json.png)
 
 ## Tampilan Daftar
-![] (gambar/Daftar.png)
+![](gambar/Daftar.png)
 
 ## Tampilan Login
-![] (gambar/Login.png)
+![](gambar/Login.png)
 
 ## Tampilan Profil
-![] (gambar/Profil.png)
+![](gambar/Profil.png)
